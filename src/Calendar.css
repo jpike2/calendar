@@ -1,0 +1,22 @@
+/* th {
+  padding: 12px;
+  text-align: center;
+  background-color: #04aa6d;
+  color: white;
+} */
+
+.calendar {
+  width: 215px;
+  height: auto;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.today {
+  background-color: #6a5acd;
+  color: white;
+}
